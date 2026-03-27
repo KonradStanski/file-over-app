@@ -16,3 +16,6 @@ name,description,extensions,category,url,open_source
 "SQLite","Small, fast, self-contained, high-reliability, full-featured, SQL database engine",".db, .sqlite, .sqlite3","Databases","https://sqlite.org/",true
 "DuckDB","Fast in-process analytical database",".csv, .parquet","Databases","https://duckdb.org/",true
 "Anki","Powerful, intelligent flash cards.",".md","Other","https://apps.ankiweb.net/",true
+"hledger","Plain text accounting software with command-line tools",".journal, .ledger","Plain text accounting","https://hledger.org/",true
+"ledger-cli","Command-line, double-entry accounting system",".ledger","Plain text accounting","https://ledger-cli.org/",true
+"Beancount","A double-entry bookkeeper system written in Python",".beancount","Plain text accounting","https://beancount.io/",true
